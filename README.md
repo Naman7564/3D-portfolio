@@ -2,7 +2,6 @@
 
 Welcome to the repository for my personal portfolio website. This project showcases my skills and experience as a DevOps Engineer, presented in a modern, interactive, and visually appealing format. The portfolio is a single-page application featuring a dynamic 3D hero section, detailed sections about my professional background, and a working contact form.
 
-![Portfolio Screenshot](https://picsum.photos/seed/portfolio/1200/600)
 
 ## ✨ Features
 
